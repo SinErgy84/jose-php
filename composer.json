@@ -1,6 +1,6 @@
 {
-  "name": "sinergy84/jose-php",
-  "version": "1.0.1",
+  "name": "sinergy84/jose",
+  "version": "1.0.2",
   "description": "JWT, JWS and JWS implementation in PHP",
   "keywords": [
     "JSON Web Token", "JSON Web Signature", "JSON Web Encryption",
